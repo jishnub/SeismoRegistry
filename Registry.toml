@@ -1,0 +1,6 @@
+name = "SeismoRegistry"
+uuid = "55c3bad7-1473-4e78-a4c3-4f1da9db6a2e"
+repo = "https://github.com/jishnub/SeismoRegistry.git"
+description = "Useful packages for seismological applications"
+
+[packages]
